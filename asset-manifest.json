@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/music_player_react/static/css/main.31f8f2c0.css",
+    "main.js": "/music_player_react/static/js/main.acebbc3b.js",
+    "static/media/Thoughts_Renda.mp3": "/music_player_react/static/media/Thoughts_Renda.576505e948e251dd28e5.mp3",
+    "static/media/Inspirational.mp3": "/music_player_react/static/media/Inspirational.8b871701671969ead86c.mp3",
+    "static/media/Light.mp3": "/music_player_react/static/media/Light.2fa8fb1504c55b52ffea.mp3",
+    "static/media/Rolling_Hills.mp3": "/music_player_react/static/media/Rolling_Hills.e27ae6c8547dc7a3dacb.mp3",
+    "static/media/song_4.jpg": "/music_player_react/static/media/song_4.e7814f7114bfc3961e65.jpg",
+    "static/media/song_3.jpg": "/music_player_react/static/media/song_3.af0adc06c4127b9ebaaf.jpg",
+    "static/media/song_1.jpg": "/music_player_react/static/media/song_1.dfe39b7a96259d72f953.jpg",
+    "static/media/song_2.jpg": "/music_player_react/static/media/song_2.1a8c0a9364e758e61eba.jpg",
+    "index.html": "/music_player_react/index.html",
+    "main.31f8f2c0.css.map": "/music_player_react/static/css/main.31f8f2c0.css.map",
+    "main.acebbc3b.js.map": "/music_player_react/static/js/main.acebbc3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f8f2c0.css",
+    "static/js/main.acebbc3b.js"
+  ]
+}
